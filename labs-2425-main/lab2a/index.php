@@ -18,7 +18,7 @@ session_start();
     <div class="col">
       <div class="p-section--shallow">
         <h1>
-          Laboratory Activity #2<br />PHP Sessions and Functions
+          Laboratory Activity #2<br />PHP Hidden Input
         </h1>
         <h2>
           Integrative Programming and Technologies
@@ -26,7 +26,7 @@ session_start();
       </div>
       <div class="p-section--shallow">
         <p>
-            This simple web application demonstrates handling of data passed through multiple PHP files, data is shared via the server's session variables.
+            This simple web application demonstrates handling of data passed through multiple PHP files, data is shared via the the hidden form input.
         </p>
         <p>
           Please register your data by clicking the button.
